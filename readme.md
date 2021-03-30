@@ -1,1 +1,1 @@
-Fifa Project: Niccolo, Marta, Anzi et Thomas
+Fifa Project: Niccolo, Marta, Anzi and Thomas
