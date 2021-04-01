@@ -2,8 +2,6 @@ Fifa Project: Niccolo Ferrari
               Marta Coll
               Anastasia Mintz
               Thomas Jacquet
-
-
 ![fifa-logo](https://user-images.githubusercontent.com/80694192/113353965-bb073800-933e-11eb-843d-e38131b52146.png)
 
 
